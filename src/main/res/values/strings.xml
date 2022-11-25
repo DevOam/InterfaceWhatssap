@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">interface wathssap</string>
+    <string name="whatssapp">WhatssApp</string>
+    <string name="discussion">DISCUSSION</string>
+    <string name="statut">STATUT</string>
+    <string name="appels">APPELS</string>
+    <string name="nouveau_groupe">Nouveau groupe</string>
+    <string name="nouvelle_diffusion">Nouvelle diffusion</string>
+    <string name="appareils_connectes">Appareils connectes</string>
+    <string name="parametres">Parametres</string>
+    <string name="_16_34">16:34</string>
+    <string name="wesh_a_bro_cv">wesh a bro cv ??</string>
+    <string name="_2">2</string>
+    <string name="nour">nour</string>
+    <string name="cc">cc</string>
+    <string name="wissal">wissal</string>
+    <string name="cv_sa_marche_tt">cv sa marche tt</string>
+    <string name="saad_dev">saad dev</string>
+    <string name="dkhoul_teams">dkhoul teams</string>
+    <string name="oumnia">oumnia</string>
+    <string name="d_acc">d\'acc</string>
+    <string name="hala">hala</string>
+    <string name="isgi">https://isgim.edupage.org/timetable/</string>
+    <string name="_17_11_2022">17/11/2022</string>
+    <string name="_9_5">9:5</string>
+    <string name="hier">hier</string>
+    <string name="presentation_des_communautes">Presentation des communautes</string>
+    <string name="longText">Reunissez facilement plusieurs groupes a une communaute, comme une ecole ou un quartier, et envoyez des messages a tous les membbres.</string>
+    <string name="btn">LANCER VOTRE COMMUNAUTE</string>
+    <string name="mehdi">mehdi</string>
+</resources>

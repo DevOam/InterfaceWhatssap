@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nGroup"
+        android:title="@string/nouveau_groupe"
+        />
+    <item
+        android:id="@+id/nDiffusion"
+        android:title="@string/nouvelle_diffusion"
+        />
+    <item
+        android:id="@+id/aConnecte"
+        android:title="@string/appareils_connectes"
+        />
+    <item
+        android:id="@+id/parametre"
+        android:title="@string/parametres"
+        />
+</menu>
